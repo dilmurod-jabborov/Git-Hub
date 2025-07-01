@@ -8,6 +8,8 @@
             MathClass.Minus(15,10);
             MathClass.Multiplay(5, 10);
             MathClass.Divide(50, 10);
+
+            EvenNumbers.Even(10);
         }
     }
 }
